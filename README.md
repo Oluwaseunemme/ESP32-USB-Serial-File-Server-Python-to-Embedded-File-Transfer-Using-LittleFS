@@ -1,0 +1,2 @@
+# ESP32-USB-Serial-File-Server-Python-to-Embedded-File-Transfer-Using-LittleFS
+This project recreates the core functionality of my previous ESP32 Wi-Fi file server over a USB serial connection. It supports file uploads, downloads, and deletion, with a custom transfer protocol designed to handle limited serial buffers, constrained RAM, and differences in processing speed between Python and the ESP32.
